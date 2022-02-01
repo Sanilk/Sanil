@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanilk
+- 👋 Hi, I’m @Sanil
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
